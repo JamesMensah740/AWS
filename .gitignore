@@ -1,0 +1,9 @@
+# Byte-compiled / cache
+__pycache__/
+
+
+# Environments
+.env
+.venv/
+venv/
+ENV/
